@@ -81,3 +81,46 @@ I'm a Computer Science student interested in **AI Engineering, Python, LLMs, and
 *Learn, build, reflect, and keep improving.*
 
 </div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/ujjawal2303">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ujjawal2303&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=79D7FF&icon_color=79D7FF&text_color=C9D1D9" alt="Ujjawal's GitHub statistics" />
+</a>
+<a href="https://github.com/ujjawal2303">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawal2303&layout=compact&hide_border=true&bg_color=0D1117&title_color=79D7FF&text_color=C9D1D9" alt="Most used programming languages" />
+</a>
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=ujjawal2303&theme=dark&hide_border=true&background=0D1117&ring=79D7FF&fire=79D7FF&currStreakLabel=79D7FF" alt="GitHub contribution streak" />
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ujjawal2303&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub profile trophies" />
+
+</div>
+
+## 📉 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ujjawal2303&bg_color=0D1117&color=79D7FF&line=79D7FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+## 🐍 Contributions Snake
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/ujjawal2303/ujjawal2303/output/github-contribution-grid-snake-dark.svg" alt="Snake animation of GitHub contributions" />
+
+</div>
