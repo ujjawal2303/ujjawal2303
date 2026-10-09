@@ -105,15 +105,23 @@ I'm a Computer Science student interested in **AI Engineering, Python, LLMs, and
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ujjawal2303&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub profile trophies" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">🏆 View GitHub profile trophies and achievements</a>
+
+<p>
+  <img src="https://img.shields.io/badge/ACHIEVEMENTS-View%20on%20GitHub-0e75b6?style=for-the-badge&logo=github" alt="View profile achievements on GitHub" />
+</p>
 
 </div>
 
-## 📉 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ujjawal2303&bg_color=0D1117&color=79D7FF&line=79D7FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<a href="https://github.com/ujjawal2303">
+  <img src="https://img.shields.io/badge/Contribution%20Graph-View%20on%20GitHub-161b22?style=for-the-badge&logo=github&logoColor=79D7FF" alt="View GitHub contribution graph" />
+</a>
+
+<p>View the live contribution calendar directly on my <a href="https://github.com/ujjawal2303">GitHub profile</a>.</p>
 
 </div>
 
@@ -121,6 +129,10 @@ I'm a Computer Science student interested in **AI Engineering, Python, LLMs, and
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/ujjawal2303/ujjawal2303/output/github-contribution-grid-snake-dark.svg" alt="Snake animation of GitHub contributions" />
+<a href="https://github.com/ujjawal2303/ujjawal2303/actions/workflows/snake.yml">
+  <img src="https://img.shields.io/badge/Snake%20Animation-Check%20workflow-161b22?style=for-the-badge&logo=githubactions&logoColor=79D7FF" alt="Check the contribution snake workflow" />
+</a>
+
+<p>The snake animation will appear here after the GitHub Actions workflow completes successfully and publishes the SVG.</p>
 
 </div>
