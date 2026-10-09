@@ -101,11 +101,11 @@ I'm a Computer Science student interested in **AI Engineering, Python, LLMs, and
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ujjawal2303&theme=onedark&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub profile trophies for Ujjawal" width="100%" />
+<img src="https://raw.githubusercontent.com/ujjawal2303/ujjawal2303/output/profile-highlights.svg" alt="Live GitHub profile highlights: public repositories, followers, stars, and forks" width="100%" />
 
 </div>
 
@@ -113,7 +113,7 @@ I'm a Computer Science student interested in **AI Engineering, Python, LLMs, and
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjawal2303&bg_color=0d1117&color=79d7ff&line=79d7ff&point=ffffff&area=true&hide_border=true" alt="Ujjawal's GitHub contribution activity graph" width="100%" />
+<img src="https://raw.githubusercontent.com/ujjawal2303/ujjawal2303/output/contribution-graph.svg" alt="Ujjawal's GitHub contribution activity graph" width="100%" />
 
 </div>
 
