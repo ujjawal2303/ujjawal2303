@@ -105,11 +105,7 @@ I'm a Computer Science student interested in **AI Engineering, Python, LLMs, and
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">🏆 View GitHub profile trophies and achievements</a>
-
-<p>
-  <img src="https://img.shields.io/badge/ACHIEVEMENTS-View%20on%20GitHub-0e75b6?style=for-the-badge&logo=github" alt="View profile achievements on GitHub" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=ujjawal2303&theme=onedark&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub profile trophies for Ujjawal" width="100%" />
 
 </div>
 
@@ -117,11 +113,7 @@ I'm a Computer Science student interested in **AI Engineering, Python, LLMs, and
 
 <div align="center">
 
-<a href="https://github.com/ujjawal2303">
-  <img src="https://img.shields.io/badge/Contribution%20Graph-View%20on%20GitHub-161b22?style=for-the-badge&logo=github&logoColor=79D7FF" alt="View GitHub contribution graph" />
-</a>
-
-<p>View the live contribution calendar directly on my <a href="https://github.com/ujjawal2303">GitHub profile</a>.</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjawal2303&bg_color=0d1117&color=79d7ff&line=79d7ff&point=ffffff&area=true&hide_border=true" alt="Ujjawal's GitHub contribution activity graph" width="100%" />
 
 </div>
 
