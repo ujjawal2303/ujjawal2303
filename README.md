@@ -129,10 +129,12 @@ I'm a Computer Science student interested in **AI Engineering, Python, LLMs, and
 
 <div align="center">
 
-<a href="https://github.com/ujjawal2303/ujjawal2303/actions/workflows/snake.yml">
-  <img src="https://img.shields.io/badge/Snake%20Animation-Check%20workflow-161b22?style=for-the-badge&logo=githubactions&logoColor=79D7FF" alt="Check the contribution snake workflow" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ujjawal2303/ujjawal2303/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ujjawal2303/ujjawal2303/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/ujjawal2303/ujjawal2303/output/github-contribution-grid-snake.svg" />
+</picture>
 
-<p>The snake animation will appear here after the GitHub Actions workflow completes successfully and publishes the SVG.</p>
+<p><a href="https://github.com/ujjawal2303/ujjawal2303/actions/workflows/snake.yml">Workflow status / rerun animation</a></p>
 
 </div>
